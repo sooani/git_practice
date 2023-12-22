@@ -1,3 +1,2 @@
 hello codestates
 Git is good.
-git add .

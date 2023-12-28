@@ -1,3 +1,6 @@
 hello codestates
 Git is good.
+<<<<<<< HEAD
 git add .
+=======
+>>>>>>> b99b14a905658330413e2fab3454cb1b3aef891b
